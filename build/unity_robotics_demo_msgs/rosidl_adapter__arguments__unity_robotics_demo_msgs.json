@@ -1,0 +1,9 @@
+{
+  "package_name": "unity_robotics_demo_msgs",
+  "non_idl_tuples": [
+    "/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs:msg/PosRot.msg",
+    "/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs:msg/UnityColor.msg",
+    "/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs:srv/PositionService.srv",
+    "/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs:srv/ObjectPoseService.srv"
+  ]
+}

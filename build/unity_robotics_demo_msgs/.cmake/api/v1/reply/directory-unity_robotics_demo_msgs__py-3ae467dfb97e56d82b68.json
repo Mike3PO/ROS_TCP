@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "unity_robotics_demo_msgs__py",
+		"source" : "/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/unity_robotics_demo_msgs__py"
+	}
+}
