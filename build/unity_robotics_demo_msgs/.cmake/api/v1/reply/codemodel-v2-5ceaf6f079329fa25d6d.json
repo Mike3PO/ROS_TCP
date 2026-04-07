@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-83c712d51bc56a68995a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "unity_robotics_demo_msgs__py",
+					"jsonFile" : "directory-unity_robotics_demo_msgs__py-3ae467dfb97e56d82b68.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/unity_robotics_demo_msgs__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "unity_robotics_demo_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_unity_robotics_demo_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_unity_robotics_demo_msgs_egg-ae9a5678b565cc4a0557.json",
+					"name" : "ament_cmake_python_build_unity_robotics_demo_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_unity_robotics_demo_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_unity_robotics_demo_msgs-34c7fba6bfedb6351653.json",
+					"name" : "ament_cmake_python_symlink_unity_robotics_demo_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-c47f1a365138bab37003.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs-368cc89e0bd3e7b906a0.json",
+					"name" : "unity_robotics_demo_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__cpp-e4e3140f157fd44638bd.json",
+					"name" : "unity_robotics_demo_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "unity_robotics_demo_msgs__py::@1c082cc24603ac6db209",
+					"jsonFile" : "target-unity_robotics_demo_msgs__py-24989a19c6d05422801d.json",
+					"name" : "unity_robotics_demo_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_generator_c-3416052ffe1a46e0640f.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_generator_py-7ae44802c5591b9ca408.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_c-879a48b4856b16ef8b16.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_c__pyext-b84118aa42140ef7421b.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_cpp-cf37bd76ac76f2f27f86.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c-0aa3b675981379139f02.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c__pyext-96446d56c4be6dc1bb5e.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp-a95087de574a6d606487.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_introspection_c-ae90c5760a1a01b14487.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_introspection_c__pyext-10414a74cb745b8f96cf.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp-a98d655a30ae7fc21fca.json",
+					"name" : "unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_robotics_demo_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_robotics_demo_msgs_uninstall-84622ad9e94d5b9b9f67.json",
+					"name" : "unity_robotics_demo_msgs_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs",
+		"source" : "/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

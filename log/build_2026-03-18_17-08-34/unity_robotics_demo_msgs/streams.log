@@ -1,0 +1,65 @@
+[1.427s] Invoking command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/home/michael/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs -- -j20 -l20
+[1.497s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.497s] -- Found ament_cmake_core: 1.3.13 (/opt/ros/humble/share/ament_cmake_core/cmake)
+[1.886s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.897s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.912s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.038s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.118s] -- Found builtin_interfaces: 1.2.2 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[2.160s] -- Found geometry_msgs: 4.9.1 (/opt/ros/humble/share/geometry_msgs/cmake)
+[3.186s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.917s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.859s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.919s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.990s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.990s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.990s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.104s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.141s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.145s] -- Added test 'lint_cmake' to check CMake code style
+[5.147s] -- Added test 'xmllint' to check XML markup files
+[5.154s] -- Configuring done
+[5.257s] -- Generating done
+[5.289s] -- Build files have been written to: /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs
+[5.352s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_generator_c[0m
+[5.379s] [  1%] Built target unity_robotics_demo_msgs__cpp
+[5.392s] [  3%] [32m[1mLinking C shared library libunity_robotics_demo_msgs__rosidl_generator_c.so[0m
+[5.395s] [  3%] Built target ament_cmake_python_symlink_unity_robotics_demo_msgs
+[5.409s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_typesupport_cpp[0m
+[5.409s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[5.410s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp[0m
+[5.452s] [  5%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_cpp.so[0m
+[5.452s] [  9%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[5.452s] [  9%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/msg/detail/dds_fastrtps/pos_rot__type_support.cpp.o[0m
+[5.454s] [ 10%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/msg/detail/dds_fastrtps/unity_color__type_support.cpp.o[0m
+[5.459s] [ 12%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/srv/detail/dds_fastrtps/object_pose_service__type_support.cpp.o[0m
+[5.462s] [ 14%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/srv/detail/dds_fastrtps/position_service__type_support.cpp.o[0m
+[5.513s] [ 23%] Built target unity_robotics_demo_msgs__rosidl_generator_c
+[5.546s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c[0m
+[5.546s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_typesupport_c[0m
+[5.551s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_typesupport_introspection_c[0m
+[5.569s] [ 32%] Built target unity_robotics_demo_msgs__rosidl_typesupport_cpp
+[5.579s] [ 34%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_c.so[0m
+[5.584s] [ 36%] [32m[1mLinking C shared library libunity_robotics_demo_msgs__rosidl_typesupport_introspection_c.so[0m
+[5.591s] [ 38%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support_c.cpp.o[0m
+[5.593s] [ 40%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support_c.cpp.o[0m
+[5.596s] [ 41%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/srv/detail/position_service__type_support_c.cpp.o[0m
+[5.597s] [ 43%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/msg/detail/unity_color__type_support_c.cpp.o[0m
+[5.657s] [ 52%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp
+[5.676s] [ 61%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_c
+[5.713s] [ 70%] Built target unity_robotics_demo_msgs__rosidl_typesupport_c
+[6.269s] running egg_info
+[6.273s] writing unity_robotics_demo_msgs.egg-info/PKG-INFO
+[6.273s] writing dependency_links to unity_robotics_demo_msgs.egg-info/dependency_links.txt
+[6.274s] writing top-level names to unity_robotics_demo_msgs.egg-info/top_level.txt
+[6.285s] reading manifest file 'unity_robotics_demo_msgs.egg-info/SOURCES.txt'
+[6.289s] writing manifest file 'unity_robotics_demo_msgs.egg-info/SOURCES.txt'
+[6.400s] [ 70%] Built target ament_cmake_python_build_unity_robotics_demo_msgs_egg
+[6.797s] [ 72%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[6.887s] [ 74%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[7.012s] [ 76%] Built target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c
+[7.014s] gmake[2]: *** Deleting file 'libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.so'
+[7.016s] gmake[2]: *** [CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/build.make:253: libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.so] Interrupt
+[7.016s] gmake[1]: *** [CMakeFiles/Makefile2:343: CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/all] Interrupt
+[7.017s] gmake: *** [Makefile:146: all] Interrupt
+[7.022s] Invoked command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/home/michael/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs -- -j20 -l20

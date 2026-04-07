@@ -1,12 +1,1 @@
-msg/PosRot.idl
-msg/PosRot.msg
-msg/UnityColor.idl
-msg/UnityColor.msg
-srv/ObjectPoseService.idl
-srv/ObjectPoseService.srv
-srv/ObjectPoseService_Request.msg
-srv/ObjectPoseService_Response.msg
-srv/PositionService.idl
-srv/PositionService.srv
-srv/PositionService_Request.msg
-srv/PositionService_Response.msg
+/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/ament_cmake_index/share/ament_index/resource_index/rosidl_interfaces/unity_robotics_demo_msgs

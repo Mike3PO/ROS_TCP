@@ -1,0 +1,34 @@
+[0.606s] Invoking command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/home/michael/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake /home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs -DCMAKE_INSTALL_PREFIX=/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs
+[0.626s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.626s] -- Found ament_cmake_core: 1.3.12 (/opt/ros/humble/share/ament_cmake_core/cmake)
+[0.826s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.830s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.834s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.889s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.927s] -- Found builtin_interfaces: 1.2.2 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.944s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.562s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.986s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.499s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.531s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.563s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.563s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.563s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.611s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.620s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.622s] -- Added test 'lint_cmake' to check CMake code style
+[2.623s] -- Added test 'xmllint' to check XML markup files
+[2.625s] -- Configuring done
+[2.668s] -- Generating done
+[2.681s] -- Build files have been written to: /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs
+[2.691s] Invoked command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/home/michael/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake /home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs -DCMAKE_INSTALL_PREFIX=/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs
+[2.691s] Invoking command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/home/michael/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs -- -j20 -l20
+[2.750s] [35m[1mConsolidate compiler generated dependencies of target unity_robotics_demo_msgs__rosidl_generator_c[0m
+[2.762s] failed to create symbolic link '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/ament_cmake_python/unity_robotics_demo_msgs/unity_robotics_demo_msgs' because existing path cannot be removed: Is a directory
+[2.763s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_unity_robotics_demo_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_unity_robotics_demo_msgs] Error 1
+[2.763s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_unity_robotics_demo_msgs.dir/all] Error 2
+[2.763s] gmake[1]: *** Waiting for unfinished jobs....
+[2.764s] [  1%] Built target unity_robotics_demo_msgs__cpp
+[2.769s] [ 12%] Built target unity_robotics_demo_msgs__rosidl_generator_c
+[2.771s] gmake: *** [Makefile:146: all] Error 2
+[2.775s] Invoked command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/home/michael/ros2_ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs -- -j20 -l20

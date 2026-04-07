@@ -25,6 +25,7 @@ setup(
             'color_publisher = unity_robotics_demo.color_publisher:main',
             'position_service = unity_robotics_demo.position_service:main',
             'position_publisher = unity_robotics_demo.position_publisher:main',
+            'serial_publisher = unity_robotics_demo.serial_publisher:main',
         ],
     },
 )

@@ -1,2 +1,1 @@
-from unity_robotics_demo_msgs.srv._object_pose_service import ObjectPoseService  # noqa: F401
-from unity_robotics_demo_msgs.srv._position_service import PositionService  # noqa: F401
+/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/rosidl_generator_py/unity_robotics_demo_msgs/srv/__init__.py

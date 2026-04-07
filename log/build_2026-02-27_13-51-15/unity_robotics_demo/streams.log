@@ -1,0 +1,26 @@
+[1.118s] Invoking command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo': PYTHONPATH=/home/michael/ros2_unity_ws/build/unity_robotics_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/michael/ros2_unity_ws/install/unity_robotics_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/michael/ros2_unity_ws/build/unity_robotics_demo/build --no-deps symlink_data
+[1.494s] running develop
+[1.711s] running egg_info
+[1.711s] creating unity_robotics_demo.egg-info
+[1.712s] writing unity_robotics_demo.egg-info/PKG-INFO
+[1.712s] writing dependency_links to unity_robotics_demo.egg-info/dependency_links.txt
+[1.712s] writing entry points to unity_robotics_demo.egg-info/entry_points.txt
+[1.712s] writing requirements to unity_robotics_demo.egg-info/requires.txt
+[1.713s] writing top-level names to unity_robotics_demo.egg-info/top_level.txt
+[1.713s] writing manifest file 'unity_robotics_demo.egg-info/SOURCES.txt'
+[1.714s] reading manifest file 'unity_robotics_demo.egg-info/SOURCES.txt'
+[1.715s] writing manifest file 'unity_robotics_demo.egg-info/SOURCES.txt'
+[1.717s] running build_ext
+[1.717s] Creating /home/michael/ros2_unity_ws/install/unity_robotics_demo/lib/python3.10/site-packages/unity-robotics-demo.egg-link (link to .)
+[1.718s] Installing color_publisher script to /home/michael/ros2_unity_ws/install/unity_robotics_demo/lib/unity_robotics_demo
+[1.719s] Installing position_publisher script to /home/michael/ros2_unity_ws/install/unity_robotics_demo/lib/unity_robotics_demo
+[1.720s] Installing position_service script to /home/michael/ros2_unity_ws/install/unity_robotics_demo/lib/unity_robotics_demo
+[1.720s] 
+[1.720s] Installed /home/michael/ros2_unity_ws/build/unity_robotics_demo
+[1.720s] running symlink_data
+[1.720s] creating /home/michael/ros2_unity_ws/install/unity_robotics_demo/share/ament_index
+[1.720s] creating /home/michael/ros2_unity_ws/install/unity_robotics_demo/share/ament_index/resource_index
+[1.720s] creating /home/michael/ros2_unity_ws/install/unity_robotics_demo/share/ament_index/resource_index/packages
+[1.720s] symbolically linking /home/michael/ros2_unity_ws/build/unity_robotics_demo/resource/unity_robotics_demo -> /home/michael/ros2_unity_ws/install/unity_robotics_demo/share/ament_index/resource_index/packages
+[1.720s] symbolically linking /home/michael/ros2_unity_ws/build/unity_robotics_demo/package.xml -> /home/michael/ros2_unity_ws/install/unity_robotics_demo/share/unity_robotics_demo
+[1.769s] Invoked command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo' returned '0': PYTHONPATH=/home/michael/ros2_unity_ws/build/unity_robotics_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/michael/ros2_unity_ws/install/unity_robotics_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/michael/ros2_unity_ws/build/unity_robotics_demo/build --no-deps symlink_data

@@ -1,7 +1,1 @@
-float32 pos_x
-float32 pos_y
-float32 pos_z
-float32 rot_x
-float32 rot_y
-float32 rot_z
-float32 rot_w
+/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs/msg/PosRot.msg

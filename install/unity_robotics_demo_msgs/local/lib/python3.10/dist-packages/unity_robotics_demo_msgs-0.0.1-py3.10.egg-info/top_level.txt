@@ -1,1 +1,1 @@
-unity_robotics_demo_msgs
+/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/ament_cmake_python/unity_robotics_demo_msgs/unity_robotics_demo_msgs.egg-info/top_level.txt

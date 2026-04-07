@@ -16,3 +16,4 @@ unity_robotics_demo/__init__.py
 unity_robotics_demo/color_publisher.py
 unity_robotics_demo/position_publisher.py
 unity_robotics_demo/position_service.py
+unity_robotics_demo/serial_publisher.py
