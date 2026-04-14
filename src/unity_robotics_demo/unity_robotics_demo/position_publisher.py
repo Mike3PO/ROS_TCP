@@ -29,7 +29,7 @@ class PositionPublisher(Node):
         self.timer = self.create_timer(self.dt, self.control_loop)
 
     def input_callback(self, msg):
-        altered_data = (-msg.data)/7
+        altered_data = (msg.data)/7
         self.input_angle = msg
         self.input_angle.data = altered_data
         print("Received input:",msg.data)
