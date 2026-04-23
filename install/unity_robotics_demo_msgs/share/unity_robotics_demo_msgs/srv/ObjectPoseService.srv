@@ -1,1 +1,3 @@
-/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs/srv/ObjectPoseService.srv
+string object_name
+---
+geometry_msgs/Pose object_pose

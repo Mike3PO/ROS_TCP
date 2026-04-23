@@ -1,1 +1,16 @@
-/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/rosidl_adapter/unity_robotics_demo_msgs/srv/PositionService.idl
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from unity_robotics_demo_msgs/srv/PositionService.srv
+// generated code does not contain a copyright notice
+
+#include "unity_robotics_demo_msgs/msg/PosRot.idl"
+
+module unity_robotics_demo_msgs {
+  module srv {
+    struct PositionService_Request {
+      unity_robotics_demo_msgs::msg::PosRot input;
+    };
+    struct PositionService_Response {
+      unity_robotics_demo_msgs::msg::PosRot output;
+    };
+  };
+};

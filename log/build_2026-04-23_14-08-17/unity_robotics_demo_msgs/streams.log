@@ -1,0 +1,338 @@
+[0.354s] Invoking command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs -DCMAKE_INSTALL_PREFIX=/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs
+[0.434s] -- The C compiler identification is GNU 11.4.0
+[0.520s] -- The CXX compiler identification is GNU 11.4.0
+[0.535s] -- Detecting C compiler ABI info
+[0.637s] -- Detecting C compiler ABI info - done
+[0.649s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.649s] -- Detecting C compile features
+[0.650s] -- Detecting C compile features - done
+[0.654s] -- Detecting CXX compiler ABI info
+[0.773s] -- Detecting CXX compiler ABI info - done
+[0.786s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.786s] -- Detecting CXX compile features
+[0.787s] -- Detecting CXX compile features - done
+[0.790s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.792s] -- Found ament_cmake_core: 1.3.13 (/opt/ros/humble/share/ament_cmake_core/cmake)
+[1.042s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.145s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.155s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.249s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.295s] -- Found builtin_interfaces: 1.2.2 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[1.312s] -- Found geometry_msgs: 4.9.1 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.744s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.067s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.484s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.511s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.513s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.552s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.552s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.553s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.553s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.580s] -- Found PythonExtra: .so  
+[2.659s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.679s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.681s] -- Added test 'lint_cmake' to check CMake code style
+[2.682s] -- Added test 'xmllint' to check XML markup files
+[2.685s] -- Configuring done
+[2.733s] -- Generating done
+[2.753s] -- Build files have been written to: /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs
+[2.764s] Invoked command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake /home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs -DCMAKE_INSTALL_PREFIX=/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs
+[2.768s] Invoking command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs -- -j20 -l20
+[2.821s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.842s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.854s] [  3%] Built target ament_cmake_python_copy_unity_robotics_demo_msgs
+[3.215s] running egg_info
+[3.216s] creating unity_robotics_demo_msgs.egg-info
+[3.216s] writing unity_robotics_demo_msgs.egg-info/PKG-INFO
+[3.216s] writing dependency_links to unity_robotics_demo_msgs.egg-info/dependency_links.txt
+[3.216s] writing top-level names to unity_robotics_demo_msgs.egg-info/top_level.txt
+[3.217s] writing manifest file 'unity_robotics_demo_msgs.egg-info/SOURCES.txt'
+[3.219s] reading manifest file 'unity_robotics_demo_msgs.egg-info/SOURCES.txt'
+[3.220s] writing manifest file 'unity_robotics_demo_msgs.egg-info/SOURCES.txt'
+[3.267s] [  3%] Built target ament_cmake_python_build_unity_robotics_demo_msgs_egg
+[3.520s] [  3%] Built target unity_robotics_demo_msgs__cpp
+[3.524s] [  5%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_c.dir/rosidl_generator_c/unity_robotics_demo_msgs/msg/detail/pos_rot__functions.c.o[0m
+[3.525s] [  7%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_c.dir/rosidl_generator_c/unity_robotics_demo_msgs/srv/detail/position_service__functions.c.o[0m
+[3.525s] [  9%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_c.dir/rosidl_generator_c/unity_robotics_demo_msgs/srv/detail/object_pose_service__functions.c.o[0m
+[3.526s] [ 10%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_c.dir/rosidl_generator_c/unity_robotics_demo_msgs/msg/detail/unity_color__functions.c.o[0m
+[3.542s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[3.544s] [ 14%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[3.546s] [ 16%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.657s] [ 18%] [32m[1mLinking C shared library libunity_robotics_demo_msgs__rosidl_generator_c.so[0m
+[3.723s] [ 18%] Built target unity_robotics_demo_msgs__rosidl_generator_c
+[3.744s] [ 20%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[3.745s] [ 23%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[3.745s] [ 23%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.119s] [ 25%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/unity_robotics_demo_msgs/srv/object_pose_service__type_support.cpp.o[0m
+[4.119s] [ 27%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/unity_robotics_demo_msgs/msg/pos_rot__type_support.cpp.o[0m
+[4.121s] [ 30%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/unity_robotics_demo_msgs/msg/unity_color__type_support.cpp.o[0m
+[4.121s] [ 30%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/unity_robotics_demo_msgs/srv/position_service__type_support.cpp.o[0m
+[4.231s] [ 32%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.cpp.o[0m
+[4.236s] [ 34%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.cpp.o[0m
+[4.237s] [ 36%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/unity_robotics_demo_msgs/srv/detail/position_service__type_support.cpp.o[0m
+[4.237s] [ 38%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.cpp.o[0m
+[4.348s] [ 40%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/msg/detail/dds_fastrtps/pos_rot__type_support.cpp.o[0m
+[4.348s] [ 41%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/msg/detail/dds_fastrtps/unity_color__type_support.cpp.o[0m
+[4.349s] [ 43%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/srv/detail/dds_fastrtps/position_service__type_support.cpp.o[0m
+[4.350s] [ 45%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/unity_robotics_demo_msgs/srv/detail/dds_fastrtps/object_pose_service__type_support.cpp.o[0m
+[4.410s] [ 47%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/unity_robotics_demo_msgs/msg/pos_rot__type_support.cpp.o[0m
+[4.411s] [ 49%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/unity_robotics_demo_msgs/srv/object_pose_service__type_support.cpp.o[0m
+[4.414s] [ 52%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/unity_robotics_demo_msgs/msg/unity_color__type_support.cpp.o[0m
+[4.415s] [ 52%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/unity_robotics_demo_msgs/srv/position_service__type_support.cpp.o[0m
+[4.529s] [ 54%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_c.so[0m
+[4.620s] [ 58%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/msg/detail/unity_color__type_support_c.cpp.o[0m
+[4.620s] [ 60%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/srv/detail/position_service__type_support_c.cpp.o[0m
+[4.622s] [ 61%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support_c.cpp.o[0m
+[4.624s] [ 61%] [32mBuilding CXX object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support_c.cpp.o[0m
+[4.704s] [ 61%] Built target unity_robotics_demo_msgs__rosidl_typesupport_c
+[4.767s] [ 65%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.c.o[0m
+[4.767s] [ 67%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.c.o[0m
+[4.771s] [ 67%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/unity_robotics_demo_msgs/srv/detail/position_service__type_support.c.o[0m
+[4.780s] [ 69%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.c.o[0m
+[5.012s] [ 70%] [32m[1mLinking C shared library libunity_robotics_demo_msgs__rosidl_typesupport_introspection_c.so[0m
+[5.135s] [ 70%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_c
+[5.176s] [ 72%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_cpp.so[0m
+[5.316s] [ 72%] Built target unity_robotics_demo_msgs__rosidl_typesupport_cpp
+[5.427s] [ 74%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[5.584s] [ 74%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp
+[5.636s] [ 76%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[5.711s] [ 78%] [32m[1mLinking CXX shared library libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[5.768s] [ 78%] Built target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp
+[5.822s] [ 78%] Built target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c
+[5.853s] [ 78%] Built target unity_robotics_demo_msgs
+[5.883s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[6.621s] [ 80%] Built target unity_robotics_demo_msgs__py
+[6.655s] [ 81%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_py.dir/rosidl_generator_py/unity_robotics_demo_msgs/msg/_pos_rot_s.c.o[0m
+[6.657s] [ 83%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_py.dir/rosidl_generator_py/unity_robotics_demo_msgs/srv/_position_service_s.c.o[0m
+[6.658s] [ 85%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_py.dir/rosidl_generator_py/unity_robotics_demo_msgs/msg/_unity_color_s.c.o[0m
+[6.659s] [ 87%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_generator_py.dir/rosidl_generator_py/unity_robotics_demo_msgs/srv/_object_pose_service_s.c.o[0m
+[6.829s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/unity_robotics_demo_msgs/libunity_robotics_demo_msgs__rosidl_generator_py.so[0m
+[6.893s] [ 89%] Built target unity_robotics_demo_msgs__rosidl_generator_py
+[6.922s] [ 90%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/unity_robotics_demo_msgs/_unity_robotics_demo_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[6.922s] [ 92%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/unity_robotics_demo_msgs/_unity_robotics_demo_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[6.923s] [ 94%] [32mBuilding C object CMakeFiles/unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/unity_robotics_demo_msgs/_unity_robotics_demo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[7.094s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.096s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.097s] [100%] [32m[1mLinking C shared library rosidl_generator_py/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.163s] [100%] Built target unity_robotics_demo_msgs__rosidl_typesupport_c__pyext
+[7.164s] [100%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_c__pyext
+[7.165s] [100%] Built target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[7.186s] Invoked command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --build /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs -- -j20 -l20
+[7.199s] Invoking command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs
+[7.209s] -- Install configuration: ""
+[7.209s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/ament_index/resource_index/rosidl_interfaces/unity_robotics_demo_msgs
+[7.209s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs
+[7.209s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/object_pose_service.h
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__struct.h
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__struct.h
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__functions.c
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__functions.c
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.h
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__type_support.h
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__functions.h
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__functions.h
+[7.210s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/position_service.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/rosidl_generator_c__visibility_control.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/pos_rot.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/unity_color.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__struct.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__functions.c
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__struct.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__functions.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__functions.c
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__functions.h
+[7.211s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.h
+[7.212s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.h
+[7.212s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/library_path.sh
+[7.212s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/library_path.dsv
+[7.212s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_generator_c.so
+[7.212s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_generator_c.so" to ""
+[7.212s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs
+[7.212s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv
+[7.212s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail
+[7.212s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_fastrtps_c.h
+[7.212s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_fastrtps_c.h
+[7.213s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg
+[7.213s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[7.213s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail
+[7.213s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_fastrtps_c.h
+[7.213s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_fastrtps_c.h
+[7.213s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.so
+[7.213s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[7.213s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs
+[7.213s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv
+[7.213s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail
+[7.213s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.c
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_introspection_c.h
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_introspection_c.h
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__type_support.c
+[7.214s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[7.214s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_introspection_c.h
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.c
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_introspection_c.h
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.c
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_introspection_c.so
+[7.214s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_introspection_c.so" to ""
+[7.214s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_c.so
+[7.215s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_c.so" to ""
+[7.215s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs
+[7.215s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv
+[7.215s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/object_pose_service.hpp
+[7.215s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/position_service.hpp
+[7.215s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail
+[7.215s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__builder.hpp
+[7.215s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__builder.hpp
+[7.215s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__struct.hpp
+[7.215s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__type_support.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__traits.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__struct.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__traits.hpp
+[7.216s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/pos_rot.hpp
+[7.216s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__builder.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__struct.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__traits.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__builder.hpp
+[7.216s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.hpp
+[7.217s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__traits.hpp
+[7.217s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__struct.hpp
+[7.217s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[7.217s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/unity_color.hpp
+[7.217s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs
+[7.217s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv
+[7.217s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail
+[7.217s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_fastrtps_cpp.hpp
+[7.217s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/dds_fastrtps
+[7.217s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_fastrtps_cpp.hpp
+[7.218s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg
+[7.218s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[7.218s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail
+[7.218s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_fastrtps_cpp.hpp
+[7.218s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/dds_fastrtps
+[7.218s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_fastrtps_cpp.hpp
+[7.218s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.so
+[7.219s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[7.219s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs
+[7.219s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv
+[7.219s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail
+[7.219s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.cpp
+[7.219s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_introspection_cpp.hpp
+[7.219s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__type_support.cpp
+[7.220s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_introspection_cpp.hpp
+[7.220s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg
+[7.220s] -- Up-to-date: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail
+[7.220s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.cpp
+[7.220s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.cpp
+[7.220s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_introspection_cpp.hpp
+[7.220s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_introspection_cpp.hpp
+[7.221s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.so
+[7.221s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[7.221s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_cpp.so
+[7.222s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_cpp.so" to ""
+[7.222s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/pythonpath.sh
+[7.222s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/pythonpath.dsv
+[7.222s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs-0.0.1-py3.10.egg-info
+[7.222s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs-0.0.1-py3.10.egg-info/PKG-INFO
+[7.222s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs-0.0.1-py3.10.egg-info/top_level.txt
+[7.222s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs-0.0.1-py3.10.egg-info/dependency_links.txt
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs-0.0.1-py3.10.egg-info/SOURCES.txt
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/_unity_robotics_demo_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/__init__.py
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/_unity_robotics_demo_msgs_s.ep.rosidl_typesupport_c.c
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/_position_service.py
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/__init__.py
+[7.223s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/_object_pose_service_s.c
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/_position_service_s.c
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/_object_pose_service.py
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/_unity_robotics_demo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/_pos_rot.py
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/_unity_color_s.c
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/__init__.py
+[7.224s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/_pos_rot_s.c
+[7.225s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/_unity_color.py
+[7.225s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.225s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/libunity_robotics_demo_msgs__rosidl_generator_py.so
+[7.288s] Listing '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs'...
+[7.288s] Compiling '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/__init__.py'...
+[7.288s] Listing '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg'...
+[7.288s] Compiling '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/__init__.py'...
+[7.288s] Compiling '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/_pos_rot.py'...
+[7.288s] Compiling '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/msg/_unity_color.py'...
+[7.288s] Listing '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv'...
+[7.288s] Compiling '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/__init__.py'...
+[7.288s] Compiling '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/_object_pose_service.py'...
+[7.289s] Compiling '/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/srv/_position_service.py'...
+[7.294s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.295s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[7.295s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.295s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[7.296s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.296s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[7.296s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_generator_py.so
+[7.296s] -- Set runtime path of "/home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_generator_py.so" to ""
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/PosRot.idl
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/UnityColor.idl
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService.idl
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService.idl
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/PosRot.msg
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/UnityColor.msg
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService.srv
+[7.297s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService_Request.msg
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService_Response.msg
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService.srv
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService_Request.msg
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService_Response.msg
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/ament_index/resource_index/package_run_dependencies/unity_robotics_demo_msgs
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/ament_index/resource_index/parent_prefix_path/unity_robotics_demo_msgs
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/ament_prefix_path.sh
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/ament_prefix_path.dsv
+[7.298s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/path.sh
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/path.dsv
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.bash
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.sh
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.zsh
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.dsv
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/package.dsv
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/ament_index/resource_index/packages/unity_robotics_demo_msgs
+[7.299s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_generator_cExport.cmake
+[7.300s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_generator_cExport-noconfig.cmake
+[7.300s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[7.300s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[7.300s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cExport.cmake
+[7.300s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[7.301s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cExport.cmake
+[7.301s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[7.301s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_generator_cppExport.cmake
+[7.301s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.302s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[7.302s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[7.302s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cppExport.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_generator_pyExport.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/export_unity_robotics_demo_msgs__rosidl_generator_pyExport-noconfig.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/rosidl_cmake-extras.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[7.303s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[7.304s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[7.304s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgsConfig.cmake
+[7.304s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgsConfig-version.cmake
+[7.304s] -- Installing: /home/michael/ros2_unity_ws/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/package.xml
+[7.307s] Invoked command in '/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/ros2_unity_ws/install/unity_robotics_demo:/home/michael/ros2_unity_ws/install/ros_tcp_endpoint:/opt/ros/humble /usr/bin/cmake --install /home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs

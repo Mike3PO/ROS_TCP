@@ -1,1 +1,4 @@
-/home/michael/ros2_unity_ws/src/unity_robotics_demo_msgs/msg/UnityColor.msg
+int32 r
+int32 g
+int32 b
+int32 a

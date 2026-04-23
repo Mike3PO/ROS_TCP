@@ -10,7 +10,6 @@ setup.py
 ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/requires.txt
 ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/top_level.txt
 ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/zip-safe
-launch/endpoint.py
 resource/ros_tcp_endpoint
 ros_tcp_endpoint/__init__.py
 ros_tcp_endpoint/client.py

@@ -1,1 +1,2 @@
-/home/michael/ros2_unity_ws/build/unity_robotics_demo_msgs/rosidl_cmake/srv/ObjectPoseService_Response.msg
+
+geometry_msgs/Pose object_pose
